@@ -5,4 +5,4 @@ This can be done by using the label of the hand gestures and path of the applica
 # Installation
 1. Clone the repository:
    ```bash
-   https://github.com/vlarjun20/Sentiment-Analysis-of-Product-Reviews-using-streamlit-and-flask.git
+   https://github.com/vlarjun20/Accessing-Windows-Applications-by-Hand-gesture-using-Google-s-hand-gesture-recognizer.git
